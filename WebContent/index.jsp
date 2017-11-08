@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>这是一个欢迎页面</title>
+<title>这是一个欢迎页面s</title>
 </head>
 <body>
 	<script type="text/javascript">
